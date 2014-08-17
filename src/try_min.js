@@ -9,6 +9,7 @@ function horse() {
 
     var xyz = abcdefg;
     alert(xyz);
+    alert(abcdefg);
 
 }
 
